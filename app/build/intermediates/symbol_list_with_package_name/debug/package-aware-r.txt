@@ -2468,6 +2468,16 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable image1
+drawable image10
+drawable image2
+drawable image3
+drawable image4
+drawable image5
+drawable image6
+drawable image7
+drawable image8
+drawable image9
 drawable m3_appbar_background
 drawable m3_popupmenu_background_overlay
 drawable m3_radiobutton_ripple
@@ -2748,6 +2758,7 @@ id item1
 id item2
 id item3
 id item4
+id item_image
 id item_title
 id item_touch_helper_previous_elevation
 id jumpToEnd

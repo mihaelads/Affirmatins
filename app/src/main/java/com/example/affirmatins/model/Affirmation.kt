@@ -1,6 +1,9 @@
 package com.example.affirmatins.model
 
-import android.renderscript.Script
+import androidx.annotation.DrawableRes
+import androidx.annotation.StringRes
 
-data class Affirmation(val stringResourceID: Int) {
-}
+data class Affirmation(
+        @StringRes val stringResourceId: Int,
+        @DrawableRes val imageResourceId: Int
+)
