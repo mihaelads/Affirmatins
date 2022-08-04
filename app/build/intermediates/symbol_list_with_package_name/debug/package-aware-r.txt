@@ -3221,13 +3221,6 @@ string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string affirmation1
 string affirmation10
-string affirmation11
-string affirmation12
-string affirmation13
-string affirmation14
-string affirmation15
-string affirmation16
-string affirmation17
 string affirmation2
 string affirmation3
 string affirmation4

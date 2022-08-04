@@ -20,12 +20,12 @@
         "source": "C:\\Users\\albot\\AndroidStudioProjects\\Affirmatins\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\albot\\AndroidStudioProjects\\Affirmatins\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\albot\\AndroidStudioProjects\\Affirmatins\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
         "merged": "C:\\Users\\albot\\AndroidStudioProjects\\Affirmatins\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item.xml.flat",
         "source": "C:\\Users\\albot\\AndroidStudioProjects\\Affirmatins\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\albot\\AndroidStudioProjects\\Affirmatins\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\albot\\AndroidStudioProjects\\Affirmatins\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
         "merged": "C:\\Users\\albot\\AndroidStudioProjects\\Affirmatins\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
